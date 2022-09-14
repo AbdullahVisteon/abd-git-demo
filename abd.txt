@@ -1,1 +1,2 @@
- hi iam learning git and github in visteon.
+ hi iam learning git and github.
+git init,git log
